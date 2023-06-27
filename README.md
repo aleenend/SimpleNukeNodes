@@ -4,7 +4,7 @@ A few simple nodes written for Nuke in a Visual Effects and Compositing course a
 AleeneContrast:
 Changes the contrast of an image using bias and gain. Adds knobs to control bias and gain within Nuke.
 
-Original: <facts-parrots src="https://github.com/aleenend/SimpleNukeNodes/assets/59891824/53ac072d-0878-480a-bcdd-69b85dc62f26" width="100" height="100">
+Original: <img src="https://github.com/aleenend/SimpleNukeNodes/assets/59891824/53ac072d-0878-480a-bcdd-69b85dc62f26" width="100" height="100">
 
 Result: ![parrotsContrast](https://github.com/aleenend/SimpleNukeNodes/assets/59891824/75ece9ba-b4d8-45c0-a85c-d02317f3f44c)
 
